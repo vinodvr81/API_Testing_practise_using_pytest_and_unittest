@@ -1,0 +1,143 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "name": "Vinod Vukkalam",
+      "email": "vinod.vukkalam@example.com"
+    },
+    {
+      "id": "490f",
+      "name": "",
+      "email": "invalid-email"
+    },
+    {
+      "id": 3,
+      "name": "Vinod Vukkalam",
+      "email": "vinod.vukkalam@example.com"
+    },
+    {
+      "id": "b835",
+      "name": "",
+      "email": "invalid-email"
+    },
+    {
+      "id": 3,
+      "name": "Vinod Vukkalam",
+      "email": "vinod.vukkalam@example.com"
+    },
+    {
+      "id": "1b1b",
+      "name": "",
+      "email": "invalid-email"
+    },
+    {
+      "id": 3,
+      "name": "Vinod Vukkalam",
+      "email": "vinod.vukkalam@example.com"
+    },
+    {
+      "id": "1d4f",
+      "name": "",
+      "email": "invalid-email"
+    },
+    {
+      "id": 3,
+      "name": "Vinod Vukkalam",
+      "email": "vinod.vukkalam@example.com"
+    },
+    {
+      "id": "6c43",
+      "name": "",
+      "email": "invalid-email"
+    },
+    {
+      "id": 3,
+      "name": "Vinod Vukkalam",
+      "email": "vinod.vukkalam@example.com"
+    },
+    {
+      "id": "129e",
+      "name": "",
+      "email": "invalid-email"
+    },
+    {
+      "id": 3,
+      "name": "Vinod Vukkalam",
+      "email": "vinod.vukkalam@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Vinod Vukkalam",
+      "email": "vinod.vukkalam@example.com"
+    },
+    {
+      "id": "a4bf",
+      "name": "Vinod Vukkallam",
+      "email": "vinod.vukkalam@example.com",
+      "username": "vinodvr"
+    },
+    {
+      "id": 3,
+      "name": "Vinod Vukkalam",
+      "email": "vinod.vukkalam@example.com"
+    },
+    {
+      "id": "b25f",
+      "name": "Vinod Vukkallam",
+      "email": "vinod.vukkalam@example.com",
+      "username": "vinodvr"
+    },
+    {
+      "id": 2,
+      "name": "Vinod Vukkalam",
+      "email": "vinod.vukkalam@example.com"
+    },
+    {
+      "id": "13f0",
+      "name": "Vinod Vukkallam R",
+      "email": "vinod.vukkalam@example.com",
+      "username": "vinodvr"
+    },
+    {
+      "id": 2,
+      "name": "Vinod Vukkalam",
+      "email": "vinod.vukkalam@example.com"
+    },
+    {
+      "id": "0bb7",
+      "name": "Vinod Vukkallam R",
+      "email": "vinod.vukkalam_r@example.com",
+      "username": "vinodvr"
+    },
+    {
+      "id": 2,
+      "name": "Vinod Vukkalam",
+      "email": "vinod.vukkalam@example.com"
+    },
+    {
+      "id": "8105",
+      "name": "Vinod Vukkallam R",
+      "email": "vinod.vukkalam_r@example.com",
+      "username": "vinodvr"
+    },
+    {
+      "id": 2,
+      "name": "Vinod Vukkalam",
+      "email": "vinod.vukkalam@example.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "Intro to JSON Server Testing",
+      "content": "Quick guide for practice the unit test cases"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "postId": 1,
+      "body": "Great Repository! https://github.com/typicode/json-server"
+    }
+  ]
+}
