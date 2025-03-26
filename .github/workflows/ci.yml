@@ -19,7 +19,16 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: 3.11
+        python-version: 3.12
+
+    - name: install json db server
+      run: |
+        npm install -g json-server      
+
+    - name: Run json db server
+      run: |
+        json-server --watch db.json
+      
 
     - name: Install dependencies
       run: |
