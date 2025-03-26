@@ -45,8 +45,6 @@ jobs:
 
       - name: Run Pytest
         run: pytest
-        env:
-          PATH: ${{ runner.tool_cache }}/node/$(node -v)/bin:$PATH
 
       - name: Cleanup Background Jobs
         run: |
